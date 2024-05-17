@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Verifying your connection...</title>
+<style type="text/css">
+        *{box-sizing:border-box;margin:0;padding:0}html{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;background:#FFF;font-size:62.5%;color:#303030;min-height:100%}body{padding:0;margin:0;line-height:2.7rem}a{color:#303030;border-bottom:1px solid #303030;text-decoration:none;padding-bottom:1rem;transition:border-color 0.2s ease-in}svg{width:40%}a:hover{border-bottom-color:#A9A9A9}h1{font-weight:400;margin:0 0 1.4rem 0}p{font-size:1.5rem;margin:0}.page{padding:4rem 3.5rem;margin:0;display:flex;min-height:100vh;flex-direction:column}.text-container--main{flex:1;display:flex;align-items:start;margin-bottom:1.6rem;margin:auto}.action{border:1px solid #A9A9A9;padding:1.2rem 2.5rem;border-radius:6px;text-decoration:none;margin-top:1.6rem;display:inline-block;font-size:1.5rem;transition:border-color 0.2s ease-in}.action:hover{border-color:#000}@media all and (min-width:500px){.text-container--main{align-items:start}.page{padding:7.5rem 10.5rem}}
+    </style>
+<meta content="375" http-equiv="refresh"/>
+</head>
+<body>
+<div class="page">
+<div class="text-container text-container--main">
+<div>
+<h1 data-i18n="content-title">Your connection needs to be verified before you can proceed</h1>
+<div class="cf-injected-html"><form class="challenge-form" id="challenge-form"><div id="cf-please-wait"><div id="spinner"><div id="cf-bubbles"><div class="bubbles"></div><div class="bubbles"></div><div class="bubbles"></div></div></div><p id="cf-spinner-please-wait"></p><p id="cf-spinner-redirecting" style="display:none"></p></div><noscript class="cf-captcha-info" id="cf-captcha-bookmark"><h1 style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1></noscript><div class="cookie-warning" id="no-cookie-warning" style="display:none"><p style="color:#bd2426;">Please enable Cookies and reload the page.</p></div></form><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "admin.shopify.com",cType: 'managed',cNounce: '97635',cRay: '8851e9ad9f3b4121',cHash: '133b7dfe0c3166b',cUPMDTk: "\/store\/betterbody-co-test?__cf_chl_tk=Jd7B7PdI.6X.K9Dm937kSX_DKewsT8lHokvzX2gX3EQ-1715931138-0.0.1.1-1642",cFPWv: 'g',cTTimeMs: '1000',cMTimeMs: '375000',cTplV: 1,cTplB: 'cf',cK: "visitor-time",fa: "\/store\/betterbody-co-test?__cf_chl_f_tk=Jd7B7PdI.6X.K9Dm937kSX_DKewsT8lHokvzX2gX3EQ-1715931138-0.0.1.1-1642",md: "Egjg8bpmbuoDFllpYx_I1bswi245ITztNU6PASzOFFE-1715931138-1.1.1.1-aiu9lU2Jplt5LczHWJH4ssd9LJjjTv9yo4Seg.QQ0a69l5eDR5jcUp.i4nqZZ9YYJiVPjMkw26gs8rHecZBk1FPtSJyVgDaNhdk1jRT5JdEhxCHA_v2AlEtaEeoPQTLGCU.02jVTgxeLIlqAoTDEV_NRRxbMltZXYBfCbWJLoizOzAMFz.P.mtEfSjDldB.jxykWigBhFpdOCJR0H7egeUSvNCYIC0VX5lync00_DBNoQ2TnEDKjxFdf2xdAOTNS32eo7.laZ6SmUS.dlXabJJbjzfvOa.BP2I2MUePtVsYlNTmfV0yqCx5W7hGFTCIh.hBFNKuUJW3HMrMex6b228J9_H4yMto_pgvQnYi7rz7IkotC5HOkSXtQKSgxV9dq3f6UI7.hQdZYDMxKNWEA1RAtNnEy5NimknBBVVFug.rBHM372ajTuPq3WSiF936zek95vIyV9rrXWFICMNDX3YwAUHg5fABm.eVhQgL5P6oSoQ3YhtD2CNSY.doCERjaVW6nZtiM7Dr4NCAyACyXjWHizOrKgbrhxwfCaDcOOMzredZ5DyC42Sui0NyDgz3DYRXvTQKcXDRvAWuY6B1PKpqs0xdGCNauPfwIJrTvuEMwQnLYcylwXFJhqatM.O.wVnhjyTtrh0P.KGipgjHQs8ykthSlO7ZUZRRLKaKTZz8PkaRS3w5A113nPbtkGBV1TeukbepdcvDzKjNmOEYMOkVj1Hn5rM8ZvNMQ81TEjtlw_yMWl1GjquBG8h.wd3FiPDLZ6iisCd.GhkBdDynxUoXRLpQdauZ.13yl9EQEZlBPcfbnLwjhzQ.2PlyTJiPlOP5V9m0llAXqy9nbpKl_UJ_ZYWK2CEAGhQOZUi8UwEPKqo2etv2OOk1TNsrV.slkso1UKckN9N1lkdSZzCl5BR4NESfO0WcqjR5zbOR6OouPiSL8BOQ7lPT5jBusNbz3MxkvmabQA5Q65SsrvHB.j2ws0.rT80FQaH2dl4eTKIV0Q.qAcXV.vrnPBMh62Hd9dyovJQSOGjBX5.dI1Sm8CsBrxtq2Zhge.EO3bcOL4STXCY34QwbFvFOj4EV.FKTDlmmFCjgz6hwP9ghyL0Et31.AbRpawO_LuWC9rSUoD1OMAz1voL3USagubN8slPfn2ePRmmMq98AcgXJfv0gR0EcQwQ1OVw.Uxf6VGEAE3sAzTlqbz27oaVuB.9YY6eNjA1kWKc2DnLcJnFC1lDvZgeBqpDLD0vYbr_y8TKIpdeTZR9tARo3qlErs8JR1DzvkClZh6NrgutiwLzAmaToZUSqA057l2BOgbXc58lvU0faBpLAJz8FkupSKFXnfgF1W4TkTIsBzgVjkzUEdv_aXT.Z2FGr5dk4OzTYv4d0qKrgoZLm31mOtuSTEWQoRgyq02RgP43WyNKJYUltt.2HBu6JhousN0Af.qGvELW6QuqMEL_abH9_MUPZIlGaJaL0iOwwvjEtARUOejTeWWhuEoOQVeelG5K7uCEc8Tq0fb7_56YGqh_WeWL_bX9Jw7yJGu0e41ilkQVMw78q2e6c2WG.dPHyTiaWkpYq6tVYD738",mdrd: "26plddRcQF_knrf27DswHLxmV01DkjeLoIb0sBfxumc-1715931138-1.1.1.1-7Gv2C4m_ZIPe4MLzHqcBPlOvdBADqy4KZTqUakw_lx_CCuxEdb7OvHWm__vFR0YbLZZBFySts9FuwWGpvY49ZjMIKgXGRyImtdmu7kqo7z7C.bMk1GzUVJOSZnT.F0zILqpHq6ozu5M_WkxERviflxNFeNRXfL4qKdRFWWOX6r_VhXlhQMvKSCOm_7ZNiYnsazrB4hwfSDsSh_Su0u1HMAAX8jXEhh8XQOKD9KQXf5qVRXTnrfb68sWX4zQkAHrx_fNzEolRKFTko_T_ODJoQtOqgV8RuVVATvGH0QAAs_MAhRYAaryupM6E7Qv2ZEb7GBAtjRg2IU1Mj03YYgIudxZewygC9MYwGP1ztfdNoQr4r.fXBu03hkhrbV00eLLEhLwXvD9kLIHGjY0gI38_FJIgwIS7DdpJYkET19WrzhBaz6uZ_OIwnTV_88gWZPrSzo7c9kWLZvaQfSg42eoDt_AG5.XZ2UtF8TGI7ZKVKCotOakolmybCc5LT_HLy1Apxp9dE5OEDD5.BbiDC.3gwK_yViZdB2YUr04wBvWu2ig0Gmc.sqnyMuRnQltAI2TMb48jtKC9ua0YbaseK1Zifp1Rwg_qg4L85I_LP9OAK1UU_G0LFFRsrmLAi4_YY3FaS9RHx17SkoAn3wHTGWz.cYmgWgQRRpT0SEzQ3jg1V6jkdBc1ebEvQp9bDwDJC5sKfSg_O0o_1PqlfVQUVUBYqWVavyQKmhxlhyfMDEP1m5dKs15ddyr6R6ma2I6bS_t5WQiTeCpto6nD4fzs.Jc3.FtXDttBf_BeAcAzb.erc_IJxKrV2m_IQgN2BIGB9HhpMAyV_8VG9LB7QMmSthmDWwStluilRV_KHl481m3ewHN66q04OZeQFoOCqjmUPZiOS7wfbhqW1ycSpU0iTBkWxlOkuOAIBCSUYhoMMo6oLbN3Xgq0zzyXPuMAHbGa7.QA7irpPWWO0xrxPvhgCjoNjcrxjXeQskIi119gcgD6Elp8DY_rq0p.9q5HVVeJxyj7Ww65Yjr.hDFnEynh2MDC6VLKs8oEmqg_MaxpbLHAs67GOKMyxlb2ZYbgYciIkoJlhCvfFwKpdbhhB14fAKB4cCxG.66qW817ucdvYxv7DAs2QMuZNizl.19VXSMa_O6oekWQPeqOfRFhxjB9jmXb_75nLqu7myvVrNO1V2No3QdUWnIDBp_30rG7HBJqis2SYeL01tOhfsWR_IOqIDRIDKeNxJIFSs2Et09MmVh6BtTKSvakeFjkE_lqINhHgDN05FU6HMqMiWPcxSZ2eXLXgifyhB7tzxrA0mySz7Hw9uqdIzPpNtUCDxKH4uQgyvGazNAhEESyJ6DaImjssy7iMsjtrUlB7cez3UeOZrPPWiOodsNwWOzxXaYr94h2kzcAfwMsPXnbo.17gLrrvBFoJv.SyB8BLlXI4_doeY8hwKLWEn1760ti.RYHwh8ArEc5HHm5fkATAv1gTg220zbC70BHfFS8FnMJFlFN5cKe7BoN6inoqqGMpVYsI56NBJ1Cl_bTDHSC0Vv6O5v5NOD.yEDq2B0tqfcPVcb3Ip8xpKrDkl2r1GdKAsroH2v9Pyw8AfB.bAdjxgr_zT0Txy1N8UHXqXcApu4ZdbE0c3MjDvzvOlMO9ulWASPHf1o9cN_Bu7qeltPm.e31GRHYQJpxBTbg89UbXI2Llu.CZ8puizg.TzjvLTztuh3BLDUVD6EiCpGVMpcQM3juRah4k4heMQq_3F2ou27RhmJK4Nr3viHVgX2AZWCQkwflIJ39m.Wm2QOX5ZYCl8m6GFm_qb0ZWxHqE5.A37IVQwL0unOuj_R5y5QBvuk6PrIVcKAXkMWmYOPl47cjIC1XEZo6bdS0QTKYVZ7jcN5_0_.g4fpndaF.QpQWdQ9ystbGnBUkB0KcOticHtRRyuFLx6NXYm_u48scgilHpN3nrpZU0o4gx5CSGB3IrETj_aDTJdyxp7SMynwDm2dXA5ZLcBBS6b6YZHwmCNabQ3m8AOd1wPEvalbhwzxxNYzey8IyMo5hns029vm2Hg62iV8jUQ7TNATfHnf1fjM.CT3b64.hv3nq3oyOqMaBXEl4U3fQuuWe59PB",cRq: {ru: 'aHR0cHM6Ly9hZG1pbi5zaG9waWZ5LmNvbS9zdG9yZS9iZXR0ZXJib2R5LWNvLXRlc3Q=',ra: 'cHl0aG9uLXJlcXVlc3RzLzIuMzEuMA==',rm: 'R0VU',d: 'MwP67yXUw3mP6YxEljXfJ22VELROm4tZMgtyS/FVEYXiLry+QQmhFm1GvfYfinlkeXdWlqWVXBC7Iup3O212CESQG4M+RS6T593k6lS4EaV2+jic/v3AP9eOz6aMcfz58cndaxWpp98NsuOGRwEeHAAlsBkK/0NnJ0gxnbFY2Q2BmOvE4lBiA0L5YifoGZyuamkBk0S/D5nv/RBlMJq3h1fLS8CANHQEd2BOGkCFLuVYeJWdS/eKA/8qvv6HFWiCo2abXlsp3kjFwo2/ijrSu7xjylD8NzEln8yy14YUdBrxUi4kOXKbGDA3PNAGCWAE8vbkzqLtoNcnYA3SemIfKN3fy389nHWoIzYvLosolOEgV+K6gu80oYtPtSgP5AMxmYf7G3I74OAURaC2xLqV5uJlUdOmOnWsKfWsa+alPPeOZ55R2t868Uzm07ef00Dl5TK6w/RrJraEwUFdxokYIVnlRKnic4coy28/16rnrYzBPPFAbjOe8JZcm7tqjjj771suNZ5a5jDFtgfGS1VY2XMhZ0m/zKGEjyzG27/u89c0gSFKeBpJysYmFxV2JKUX',t: 'MTcxNTkzMTEzOC4xODkwMDA=',cT: Math.floor(Date.now() / 1000),m: 'fGrC+NXbZbv0+eXZhJGUPlJ5ZIPibaATCOltqzH3rdk=',i1: 'MAFQMvXLxRJ+AjtWYDHD8A==',i2: 'ufqo36JC8xyUfAEgLQHgpw==',zh: 'kcJ7Osl0E8A8R9kaDwI5qd7bADe9Ij++nemc4/6Fe7k=',uh: 'YE9XOpG5TeHmhA1zfs5mxC8CrRZzq2a/+r+OU7dliYQ=',hh: 'isZkaadg9RBqU3E71WkD6p9gmA1hD0YCu07ApXonkAM=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8851e9ad9f3b4121';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/store\/betterbody-co-test?__cf_chl_rt_tk=Jd7B7PdI.6X.K9Dm937kSX_DKewsT8lHokvzX2gX3EQ-1715931138-0.0.1.1-1642" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></div>
+</div>
+</div>
+</div>
+<script>
+    var t = {
+  "cs": {
+    "title": "Vaše připojení se ověřuje...",
+    "content-title": "Než budete moct pokračovat, je nutné ověřit vaše připojení"
+  },
+  "da": {
+    "title": "Bekræfter din forbindelse ...",
+    "content-title": "Din forbindelse skal bekræftes, før du kan fortsætte"
+  },
+  "de": {
+    "title": "Deine Verbindung wird verifiziert ...",
+    "content-title": "Deine Verbindung muss verifiziert werden, bevor du fortfahren kannst"
+  },
+  "en": {
+    "title": "Verifying your connection...",
+    "content-title": "Your connection needs to be verified before you can proceed"
+  },
+  "es": {
+    "title": "Verificando la conexión...",
+    "content-title": "Se debe verificar tu conexión antes de poder continuar"
+  },
+  "fi": {
+    "title": "Yhteyttäsi todennetaan...",
+    "content-title": "Yhteytesi on todennettava ennen kuin voit jatkaa"
+  },
+  "fr": {
+    "title": "Connexion en cours de vérification...",
+    "content-title": "Votre connexion doit être vérifiée avant que vous puissiez continuer"
+  },
+  "hi": {
+    "title": "आपका कनेक्शन वेरिफ़ाई हो रहा है...",
+    "content-title": "इससे पहले कि आप आगे बढ़ें आपके कनेक्शन को वेरिफ़ाई करना होगा"
+  },
+  "it": {
+    "title": "Verifica connessione...",
+    "content-title": "È necessario verificare la tua connessione prima di procedere"
+  },
+  "ja": {
+    "title": "接続を確認しています...",
+    "content-title": "続行するには接続の確認が必要です"
+  },
+  "ko": {
+    "title": "연결 확인 중...",
+    "content-title": "계속 진행하려면 연결을 확인해야 합니다."
+  },
+  "ms": {
+    "title": "Mengesahkan sambungan anda...",
+    "content-title": "Sambungan anda perlu disahkan sebelum anda boleh meneruskan"
+  },
+  "nb": {
+    "title": "Bekreft tilkoblingen din …",
+    "content-title": "Tilkoblingen din må bekreftes før du kan fortsette"
+  },
+  "nl": {
+    "title": "Je verbinding verifiëren...",
+    "content-title": "Verifieer eerst je verbinding voordat je doorgaat"
+  },
+  "pl": {
+    "title": "Weryfikowanie połączenia...",
+    "content-title": "Możesz kontynuować, dopiero gdy połączenie zostanie zweryfikowane"
+  },
+  "pt-BR": {
+    "title": "Verificando a conexão...",
+    "content-title": "A conexão precisa ser verificada para você prosseguir"
+  },
+  "pt-PT": {
+    "title": "A verificar a sua ligação...",
+    "content-title": "A sua ligação tem de ser verificada antes de prosseguir"
+  },
+  "sv": {
+    "title": "Verifierar din anslutning ...",
+    "content-title": "Din anslutning måste verifieras innan du kan fortsätta"
+  },
+  "th": {
+    "title": "ตรวจสอบยืนยันการเชื่อมต่อของคุณ...",
+    "content-title": "การเชื่อมต่อของคุณต้องได้รับการตรวจสอบยืนยันก่อนจึงจะดำเนินการต่อได้"
+  },
+  "tr": {
+    "title": "Bağlantınız doğrulanıyor...",
+    "content-title": "Devam etmeden önce bağlantınızın doğrulanması gerekir."
+  },
+  "vi": {
+    "title": "Đang xác minh kết nối...",
+    "content-title": "Bạn cần xác minh kết nối để có thế tiếp tục"
+  },
+  "zh-CN": {
+    "title": "正在验证您的连接...",
+    "content-title": "您的连接需要经过验证然后您才能继续操作"
+  },
+  "zh-TW": {
+    "title": "正在驗證連線...",
+    "content-title": "您必須先驗證連線才能繼續"
+  }
+};
+    var language = navigator.languages && navigator.languages[0] || // Chrome / Firefox
+      navigator.language ||   // All browsers
+      navigator.userLanguage || // IE <= 10
+      "en";
+    language = language.split("-")[0]; // Strip country code
+    translations = t[language] || t["en"];
+    // Replace content on screen
+    for (var id in translations) {
+      target = document.querySelector("[data-i18n=" + id + "]");
+      if (target != undefined) {
+        target.innerHTML = translations[id];
+      }
+    }
+    // Replace title tage
+    document.title = translations["title"];
+    // Replace language tag
+    if (t[language]) { document.getElementsByTagName('html')[0].setAttribute('lang', language); };
+  </script>
+</body>
+</html>
+
