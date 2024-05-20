@@ -1,8 +1,0 @@
-import requests
-from bs4 import BeautifulSoup
-
-url = "https://admin.shopify.com/store/betterbody-co-test"
-r=requests.get(url)
-print(r)
-soup = BeautifulSoup(r.text)
-print(soup)
