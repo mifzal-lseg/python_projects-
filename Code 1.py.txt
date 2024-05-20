@@ -1,0 +1,19 @@
+import shopify
+import os
+shop_url = "https://admin.shopify.com/store/betterbody-co-test/orders" % (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)
+shopify.ShopifyResource.set_site(shop_url)
+token=os.getenv('TOKEN')
+merchant=os.getenv('MERCHANT')
+api_session=shopify.Session(merchant,'2024-04',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)
+shopify.shopifyResource.activate_session(api_session)
+def get_data(object_name):
+    all_data=[]
+    attribute=getattr(shopify,object_name)
+    data=attribute.find(since_id=0, limit=250)
+    for d in data:
+        all_data.append(d)
+    while data.has_next_page():
+        data=data.next.page()
+        for d in data:
+            all_data.append(d)
+    return all_data
